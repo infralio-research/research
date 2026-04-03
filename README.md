@@ -104,14 +104,14 @@ The platform is built at the intersection of infrastructure finance expertise an
 
 ## Status
 
-Infralio Research is currently in active development. Module 1 (Deal Screener) and Module 2 (IM Analyzer) are in prototype phase. The Infralio Weekly Brief is published periodically on [LinkedIn](https://www.linkedin.com/company/infralio-research).
+Infralio Research is currently in active development. Module 1 (Deal Screener) and Module 2 (IM Analyzer) are in prototype phase. The Infralio Weekly Brief is published periodically on [LinkedIn](https://www.linkedin.com/company/infralio).
 
 ---
 
 ## Contact
 
 **Email:** research@infralio.com
-**LinkedIn:** [Infralio Research](https://www.linkedin.com/company/infralio-research)
+**LinkedIn:** [Infralio Research](https://www.linkedin.com/company/infralio)
 
 ---
 
